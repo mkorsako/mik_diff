@@ -1,0 +1,21 @@
+# file: sample_1.txt
+L0 command par_1
+L0 block name_1
+ L1 line_1
+ L2 line_2
+L0 line A
+L0 line B
+!
+L0 block name_2
+ L1 line_1
+ L1 line_2
+ L1 line_3
+!
+L0 superblock name_1
+ L1 line_1
+ L1 block 1
+  L2 line_1
+  L2 line_2
+!
+L0 line C
+The end
