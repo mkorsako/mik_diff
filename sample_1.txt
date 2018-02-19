@@ -1,4 +1,6 @@
 # file: sample_1.txt
+# Version: 0.2
+# Updated: 19-Feb-2018 16:00
 L0 command par_1
 L0 block name_1
  L1 line_1
